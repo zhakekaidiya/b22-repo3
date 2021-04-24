@@ -7,3 +7,9 @@ Few things happened:
 1. if automatically created new remote repo under your Github.com
 2. made the connection
 3. added all your commits to remote repo
+
+How our work will continue locally:
+1. add a new file called note.txt
+2. commit the change to local repo
+3. we want this change to be reflected in remote repository, so we PUSHED local commits to remote repository using PUSH ORIGIN button
+4. observe that he has been added in Github.com
