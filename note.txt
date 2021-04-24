@@ -1,0 +1,9 @@
+THIS IS A TEXT FILE
+
+We jiust published our local git repo 
+to remote Github.com repository
+
+Few things happened:
+1. if automatically created new remote repo under your Github.com
+2. made the connection
+3. added all your commits to remote repo
